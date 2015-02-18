@@ -1,7 +1,7 @@
-#. Subject: The number of the person participated in the experiment
-#. Activity: The activity measured
-#. tBodyAcc-mean()-X: mean of Body acceleration in X for activity for subject (in time domain)
-#. tBodyAcc-mean()-Y: mean of Body acceleration in Y for activity for subject (in time domain)
+1. Subject: The number of the person participated in the experiment
+2. Activity: The activity measured
+3. tBodyAcc-mean()-X: mean of Body acceleration in X for activity for subject (in time domain)
+4. tBodyAcc-mean()-Y: mean of Body acceleration in Y for activity for subject (in time domain)
 #. tBodyAcc-mean()-Z: mean of Body acceleration in Z for activity for subject (in time domain)
 #. tBodyAcc-std()-X: standard deviation of Body acceleration in X for activity for subject (in time domain)
 #. tBodyAcc-std()-Y: standard deviation of Body acceleration in Y for activity for subject (in time domain)
