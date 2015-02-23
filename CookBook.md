@@ -1,3 +1,10 @@
+# Introduction
+
+The script 'run_Analysis.R' summarizes the data in the smart phone dataset avaliable at  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones in wide format. It calculates the mean of all reading for each subject per activity.
+
+
+The list of the columns that are in the tidy list is as follows:
+
 1. **Subject**: The number of the person participated in the experiment
 2. **Activity**: The activity measured
 3. **tBodyAcc-mean()-X**: mean of Body acceleration in X for activity for subject (in time domain)
