@@ -2,6 +2,7 @@
 
 The script 'run_Analysis.R' summarizes the data in the smart phone dataset avaliable at  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones in wide format. It calculates the mean of all reading for each subject per activity.
 
+# List of Columns  Generated
 
 The list of the columns that are in the tidy list is as follows:
 
